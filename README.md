@@ -23,3 +23,6 @@ Pertama, kita menentukan subnet pada topologi. Lalu kita perlu melingkari host y
 
 Setelah melakukan perhitungan IP, kita perlu membuat tree pembagian subnet, berikut adalah gambarnya :
 ![Foto](./img/vlsm_1.PNG)
+
+Apabila telah melakukan perhitungan IP dan membuat tree subnet kita dapat mulai membuat topologi serta mengkonfigurasinya, berikut merupakan gambarnya :
+![Foto](./img/vlsm_3.PNG)
