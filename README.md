@@ -7,6 +7,7 @@ Najwa Amelia Qorry 'Aina | 5027201001
 
 ## Soal
 Topologi yang perlu kita buat :
+
 ![Foto](./img/gambarsoal.png)
 
 1. Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhitungan CLASSLESS yang berbeda.
@@ -19,10 +20,13 @@ Topologi yang perlu kita buat :
 ## Jawaban
 ### Metode VLSM
 Pertama, kita menentukan subnet pada topologi. Lalu kita perlu melingkari host yang terhubung pada interface router serta menghitung IP yang dibutuhkan. Berikut merupakan hasil perhitungan IP :
+
 ![Foto](./img/vlsm_2.PNG)
 
 Setelah melakukan perhitungan IP, kita perlu membuat tree pembagian subnet, berikut adalah gambarnya :
+
 ![Foto](./img/vlsm_1.PNG)
 
 Apabila telah melakukan perhitungan IP dan membuat tree subnet kita dapat mulai membuat topologi serta mengkonfigurasinya, berikut merupakan gambarnya :
+
 ![Foto](./img/vlsm_3.PNG)
