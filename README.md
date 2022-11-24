@@ -23,10 +23,20 @@ Pertama, kita menentukan subnet pada topologi. Lalu kita perlu melingkari host y
 
 ![Foto](./img/vlsm_2.PNG)
 
-Setelah melakukan perhitungan IP, kita perlu membuat tree pembagian subnet, berikut adalah gambarnya :
+Setelah melakukan perhitungan IP kita perlu membuat tree, berikut adalah gambarnya :
 
 ![Foto](./img/vlsm_1.PNG)
 
 Apabila telah melakukan perhitungan IP dan membuat tree subnet kita dapat mulai membuat topologi serta mengkonfigurasinya, berikut merupakan gambarnya :
 
 ![Foto](./img/vlsm_3.PNG)
+
+### Metode CIDR
+Berikut merupakan tree kami untuk metode CIDR :
+
+![Foto](./img/cidr_1.PNG)
+
+Setelah membuat topologi kita perlu melakukan perhitungan IP, berikut merupakan perhitungan IP kami :
+
+![Foto](./img/cidr_2.1.PNG)
+![Foto](./img/cidr_2.2.PNG)
